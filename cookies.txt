@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.turkkod.cf	TRUE	/	FALSE	1999999999	__cfduid	d6a3859c20421e155b7cb0c964bb90b5f1583065502
+turkkod.cf	TRUE	/	FALSE	1999999999	SameSite	Lax
+

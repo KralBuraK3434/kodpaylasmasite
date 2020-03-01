@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 01 Mar 2020 15:24:50 at https://turkkod.cf/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "tr, en, *" https://turkkod.cf/ -O1 "C:\Users\w10\Desktop\asdasd\turkkod" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:24:54	Error: 	"Not Found" (404) at link https://turkkod.cf/custom/style.css (from https://turkkod.cf/)
+15:24:54	Error: 	"Not Found" (404) at link https://turkkod.cf/custom/addon.js (from https://turkkod.cf/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 seconds : 6 links scanned, 3 files written (6572 bytes overall) [8505 bytes received at 2126 bytes/sec], 7026 bytes transferred using HTTP compression in 6 files, ratio 46%, 3.0 requests per connection
+(2 errors, 0 warnings, 0 messages)
